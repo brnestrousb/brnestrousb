@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @brnestrousb
-- 👀 I’m interested in Super Intelligence...
-- 🌱 I’m currently learning Python n C++...
 
-<---Python specialist--->
+-Hello, i'm just a beginner.
+-and I'm just getting started.
+-and I specialize in data security with C++
